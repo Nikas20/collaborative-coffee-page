@@ -2,7 +2,7 @@
     width: 4rem;
     float: left;
 }
-nav span{
+.right{
     float: right;
 }
 .order{
@@ -16,4 +16,8 @@ nav span{
     border: solid darkgoldenrod;
     color: darkgoldenrod;
     padding: 10px 20px;
+}
+.gold{color: darkgoldenrod;}
+header{
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
 }
