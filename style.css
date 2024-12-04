@@ -1,0 +1,23 @@
+.logo{
+    width: 4rem;
+    float: left;
+}
+.right{
+    float: right;
+}
+.order{
+    background-color: darkgoldenrod;
+    border: solid darkgoldenrod;
+    color: white;
+    padding: 10px 20px;
+}
+.signIn{
+    background-color: white;
+    border: solid darkgoldenrod;
+    color: darkgoldenrod;
+    padding: 10px 20px;
+}
+.gold{color: darkgoldenrod;}
+header{
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
